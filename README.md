@@ -1,8 +1,8 @@
 # plugin.video.iptvsimple.addons
 
  - Integrate "script.xtreameditor" direct into the addon
- ![rMbY1TK.png](https://i.imgur.com/rMbY1TK.png)
- 
+
+![D9txkRZ.png](https://i.imgur.com/D9txkRZ.png)
  
 ![IOB4Jir.png](https://i.imgur.com/IOB4Jir.png)
 
