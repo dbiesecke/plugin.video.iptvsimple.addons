@@ -1,5 +1,12 @@
 # plugin.video.iptvsimple.addons
 
+
+
+## Edit:
+ - load streams from addons path - now we can ship with some default settings
+
+
+
 * Kodi 18 only.
 
 * Add addon streams to IPTV Simple Client.

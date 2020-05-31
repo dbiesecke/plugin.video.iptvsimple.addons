@@ -1,6 +1,15 @@
 <settings>
+    <setting id="appcode" type="text" label="appcode" default=""/>
+    <setting id="lineid" type="text" label="lineid" default="None"/>
+    <setting id="qrcode" type="text" label="qrcode" visible="false" default=""/>
+    <setting id="m3uurl" type="text" label="m3u" visible="false" default="None"/>
+    <setting id="epgurl" type="text" label="epg" visible="false" default="None"/>
+    <setting id="httpsource" type="text" label="httpsource" visible="false" default="http://psyco.tv/m3us2"/>
+
+
+    
 <category label="General">
-<setting id="busybox" label="busybox exe" type="file" default=""/>
+<setting id="busybox" label="busybox exe" type="file" default="/usr/bin/busybox"/>
 </category>
 <category label="Service">
 <setting id="notification" label="Update Notifications" type="bool" default="true" />
