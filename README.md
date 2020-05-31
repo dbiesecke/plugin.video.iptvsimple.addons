@@ -1,11 +1,17 @@
 # plugin.video.iptvsimple.addons
 
-
+ - Integrate "script.xtreameditor" direct into the addon
+ ![rMbY1TK.png](https://i.imgur.com/rMbY1TK.png)
+ 
+ 
+![IOB4Jir.png](https://i.imgur.com/IOB4Jir.png)
 
 ## Edit:
  - load streams from addons path - now we can ship with some default settings
-
-
+ - Added a simple backup of channels & streams
+ - change path, so now we can ship the config's with the addon
+ 
+------------------------------------------------------------------
 
 * Kodi 18 only.
 
